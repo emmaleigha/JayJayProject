@@ -1,9 +1,23 @@
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
+
+
 h1 {
     text-align:center;
-    font-family: Bemirs;
-}
+    font-family: Cheri;}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;}
+
+body{
+    margin: 0;
+    background-color: hsl(0, 0%, 100%);
+    color:hsl(0, 0%, 10%);
+    line-height:1.5;}
+
+p{text-align:center;
+  font-family: cheri;}
+
+button{display: block;
+margin-left:auto;
+margin-right:auto;}
